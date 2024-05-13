@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vasilijemirkovic
+- 👋 Hi, I’m Vasilije
 - 👀 I’m interested in programming and software engineering.
-- 🌱 I’m currently learning the programming language JavaScript, framework Vue.js.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the programming language JavaScript, framework AngularJS.
 - 📫 How to reach me ...
 
 <!---
