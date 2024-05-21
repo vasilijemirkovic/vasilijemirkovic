@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vasilije
+- 👋 Hi, I’m Vasilije Mirkovic
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m currently learning the programming language JavaScript, framework AngularJS.
-- 📫 How to reach me ...
+- 📫 Reach me via email: vasilijemirkovic@gmail.com or LinkedIn: linkedin.com/in/vasilijemirkovic
 
 <!---
 vasilijemirkovic/vasilijemirkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
