@@ -1,9 +1,27 @@
-- 👋 Hi, I’m Vasilije Mirkovic
-- 👀 I’m interested in programming and software engineering.
-- 🌱 I’m currently learning the programming language JavaScript, framework AngularJS.
-- 📫 Reach me via email: vasilijemirkovic@gmail.com or LinkedIn: linkedin.com/in/vasilijemirkovic.com
+# Hi, I'm Vasilije 👋
 
-<!---
-vasilijemirkovic/vasilijemirkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+.NET developer with a BSc in Computer Science from the University of Vienna.
+I build backend applications with C# and ASP.NET Core, with a focus on clean architecture, security and automated testing.
+
+## 🔨 Featured project
+
+**[Pizza Ordering App](https://github.com/vasilijemirkovic/pizza-ordering-app)**: a REST API built with ASP.NET Core
+- EF Core with SQLite and automatic migrations
+- JWT authentication and role-based authorization
+- Request validation and global error handling with ProblemDetails
+- Unit and integration tests with xUnit and WebApplicationFactory
+
+## 🧰 Tech stack
+
+**Backend:** Java, Python, C#, .NET, ASP.NET Core Web API, Entity Framework Core
+**Databases:** SQL, MySQL, SQLite
+**Frontend:** Angular, AngularJS, HTML, CSS
+**Testing & tools:** xUnit, JUnit, Selenium, Git, Azure, Jira, Docker
+
+## 🌱 Currently
+
+- Building a frontend client for the Pizza Ordering App
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/vasilijemirkovic/)
