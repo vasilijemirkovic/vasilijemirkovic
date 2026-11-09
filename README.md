@@ -13,10 +13,10 @@ I build backend applications with C# and ASP.NET Core, with a focus on clean arc
 
 ## 🧰 Tech stack
 
-**Backend:** Java, Python, C#, .NET, ASP.NET Core Web API, Entity Framework Core
-**Databases:** SQL, MySQL, SQLite
-**Frontend:** Angular, AngularJS, HTML, CSS
-**Testing & tools:** xUnit, JUnit, Selenium, Git, Azure, Jira, Docker
+- **Backend:** Java, Python, C#, .NET, ASP.NET Core Web API, Entity Framework Core
+- **Databases:** SQL, MySQL, SQLite
+- **Frontend:** Angular, AngularJS, HTML, CSS
+- **Testing & tools:** xUnit, JUnit, Selenium, Git, Azure, Jira, Docker
 
 ## 🌱 Currently
 
