@@ -1,26 +1,22 @@
 # Hi, I'm Vasilije 👋
 
 .NET developer with a BSc in Computer Science from the University of Vienna.
-I build backend applications with C# and ASP.NET Core, with a focus on clean architecture, security and automated testing.
+I build full-stack applications with C# and ASP.NET Core and Blazor, with a focus on clean architecture, security and automated testing.
 
 ## 🔨 Featured project
 
-**[Pizza Ordering App](https://github.com/vasilijemirkovic/pizza-ordering-app)**: a REST API built with ASP.NET Core
+**[Pizza Ordering App](https://github.com/vasilijemirkovic/pizza-ordering-app)**: ASP.NET Core Web API + Blazor WebAssembly
 - EF Core with SQLite and automatic migrations
 - JWT authentication and role-based authorization
-- Request validation and global error handling with ProblemDetails
+- Blazor WebAssembly client with protected admin pages
 - Unit and integration tests with xUnit and WebApplicationFactory
 
 ## 🧰 Tech stack
 
-- **Backend:** Java, Python, C#, .NET, ASP.NET Core Web API, Entity Framework Core
-- **Databases:** SQL, MySQL, SQLite
-- **Frontend:** Angular, AngularJS, HTML, CSS
-- **Testing & tools:** xUnit, JUnit, Selenium, Git, Azure, Jira, Docker
-
-## 🌱 Currently
-
-- Building a frontend client for the Pizza Ordering App
+**Backend:** C#, .NET, ASP.NET Core Web API, Java, Python, Entity Framework Core
+**Frontend:** Blazor WebAssembly, Angular, AngularJS, HTML, CSS
+**Databases:** SQL, MySQL, SQLite
+**Testing & tools:** xUnit, JUnit, Selenium, Git, Azure, Jira, Docker
 
 ## 📫 Contact
 
